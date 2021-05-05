@@ -1,0 +1,13 @@
+baseURL = "https://www.radioactive-mutant-vampire-zombie-robots-from-outerspace.de/"
+languageCode = "en-us"
+title = "What if radioactive mutant vampire zombie robots from outerspace attack?!"
+theme = "hello-friend-ng"
+
+[params]
+enableThemeToggle = true
+
+[params.logo]
+  logoMark     = ">>"
+  logoText     = "rmvzrfo"
+  logoHomeLink = "/"
+  logoCursorDisabled = true
