@@ -2,6 +2,7 @@ baseURL = "https://www.radioactive-mutant-vampire-zombie-robots-from-outerspace.
 languageCode = "en-us"
 title = "What if radioactive mutant vampire zombie robots from outerspace attack?!"
 theme = "hello-friend-ng"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 enableThemeToggle = true
